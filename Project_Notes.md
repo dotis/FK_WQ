@@ -137,3 +137,32 @@ Options:
 1. Add functionality to WIN
 2. Use SEACAR 
 3. Develop our own platform to ingest data from providers and output to data viz. and decision support tools.
+
+
+## Meeting on 5/3/23
+Omar - Outputs of WIN database are text files. However, the water quality program names are not standard and NOT easy to figure out.
+
+Alex - Data files direct from providers are .csv or .xlsx
+
+FY3: This year's meeting w/providers is meant to assess challenges with uploading to the WIN database. What are the challenges with WIN (if any)? How to streamline the process?
+
+Alex - There are some concerns with naming conventions and columns that we could address with providers. However, if data comes from WIN, some of this is moot. 
+
+Omar - WIN is the way to go if it can be updated, so data after 2017 shows up. The best way to search for data is by program and using a date range. This is the best long term solution, but will require some sort of manual download on someone's part each time new data is available. This is something that can be mentioned during Task 4 meetings with DEAR in FY4.
+
+Program names: Not standard. Omar did by hand with input from providers. Need to put in repo or on GDrive to keep a working doc.
+
+FY4 proposal is likely to be funded.
+## Tasks:
+1. Attendance and tech. support for FCRTF meetings (in-person quarterly, virtual also)
+2. Update unified database
+3. Data viz. tool
+4. Meetings with DEAR to streamline and hopefully improve usefulness of WIN.
+
+
+
+
+
+
+
+
