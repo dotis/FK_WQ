@@ -105,7 +105,13 @@ Brian Weinstein. brian.weinstein@floridadep.gov  WIN contact. Get private accoun
 
 May need to modify SOW for this year, but need a scope for next year. 
 
-## Future work (Y4)
+### Y3 Merged Dataset (2023)
+1. Only new dates are included in new merged datasets
+2. Will Alex/Omar merge into new sheet?
+
+
+
+## Y4
 Tori is the contact here for Y4. Need to draft a SOW.
 
 Support and facilitate this new Everglades Group. What are the technical needs. This may take awhile.
