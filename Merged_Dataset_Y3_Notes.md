@@ -12,6 +12,15 @@ The sheets file is newer. Should I use this location file?
 
 Also, I assume the merged datasets in xlsx form in the "Merged Datasets" and the .csv files in the "Merged Datasets and Trend Analyses" folder are the same?
 
+### Issues w/data (using SERC station 391 as an example):
+Here are the first few lines from when I compiled all CHLa data from St. 391.
+![image](https://github.com/dotis/FK_WQ/assets/26553741/40b5a12a-ea6b-447e-9eb3-9b1f486458fe)
+
+A couple of questions:
+1. Why do we have repeated time values? This may be a surface/bottom issue.
+2. However, looking back at the sheets from Henry on the drive (all three files basically have the same values for older data), I don't see the 0.92 value that appears in the merged dataset. I see the 1.12 value. I'm not sure where the 0.92 comes from.
+3. 
+
 ### Missing slopes (not sure if this matters):
 1. N Sluiceway (row 102 in location file)
 2. Sta329i (row 143)
