@@ -17,7 +17,7 @@ Here are the first few lines from when I compiled all CHLa data from St. 391.
 ![image](https://github.com/dotis/FK_WQ/assets/26553741/40b5a12a-ea6b-447e-9eb3-9b1f486458fe)
 
 A couple of questions:
-1. Why do we have repeated time values? This may be a surface/bottom issue.
+1. Why do we have repeated time values? Ignore the 15's. I just use the 15th of each month. I see two values for each sampling. This may be a surface/bottom issue, but I don't see any bottom values in the spreadsheets.
 2. However, looking back at the sheets from Henry on the drive (all three files basically have the same values for older data), I don't see the 0.92 value that appears in the merged dataset. I see the 1.12 value. I'm not sure where the 0.92 comes from.
 3. 
 
