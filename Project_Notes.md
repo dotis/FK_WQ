@@ -186,7 +186,7 @@ Example: Acid vs. ice preservation.
 
 From Frank M-K: Wondering about a few linkages: 
 1. How is the other DEP water quality program (Fourqurean's) handling these interoperability questions; 
-2. How is this effort linked to the regional water quality effort in SEFCRI: https://coastalscience.noaa.gov/news/noaa-scientists-help-florida-dep-design-coral-reef-water-quality-monitoring-program/; 
+2. How is this effort linked to the regional water quality effort in SEFCRI: https://coastalscience.noaa.gov/news/noaa-scientists-help-florida-dep-design-coral-reef-water-quality-monitoring-program/; A: This SEFCRI data is included in the unified database.
 3. How does this fit into this DEP effort: https://floridadep.gov/dear/water-quality-standards/content/numeric-nutrient-criteria-development
 4. Is the database now online?
 
@@ -195,9 +195,47 @@ The FIU project that was mentioned earlier is funded through the Biscayne Bay Wa
 
 Alex F. - Does anyone go back and update WIN? Are there changes to past data on the part of providers. Yes, some data is flagged as anomalous and is changed (Juliet)
 
-Lindsey V.: Have you contacted WIN coordinator (Justin Nelson) He has helped with past large-scale revisions.
+Lindsey V.: Have you contacted WIN coordinator (Justin Nelson) He has helped with past large-scale revisions. Data can also be re-uploaded if needed. 
 
-## Omar R. (AOML)
+Nick P. - WIN pushes into EPA STORET once a year, so changes should be done within a year (usually an audit).
+
+Alex F. - This means we need to back year after year to grab current data.
+
+## Omar R. (AOML) - Issues w/WIN and how to get data out - Can we get data straight from WIN?
+Issues w/WIN:
+1. Missing data from time series. Data from WIN often does not match up w/data directly from providers.
+2. Nothing from before 2017. - These data should be in STORET (began loading data in 2017). Will this archived data be moved to WIN? Nick P. does not know.
+3. Some analytes are not named consistently. Chlorophyll for example has slight differences (chlorophyll-a vs. Chlorophylla vs. Chlorophyll-a) - Can merge on cross-analyte ID (Lindsey V.). Also different flavors of CHLa. Acid, no-acid, pheophytin, etc.
+From FMK: Omar's comments reminds me of the issues we talked about early on: units! and if people report on a variable like nitrate concentration, is that based on N, or on N and O? I am sure this is sorted out here
+4. Hard to navigate search queries (program names are obscure) Lindsey - WAVES map query by region
+5. WIN is not user-friendly said by many on the call. Need to get info from coordinators like Justin Nelson.
+6. Cannot get calculated values, like total N, from WIN.
+7. How often is new data added to WIN? - Quarterly in general. Main hurdle is QC. Inputting data is not an issue in general. Once the connection to WIN is established with the help of the coordinator, the uploads are straightforward.  
+8. What other issues have providers had w/WIN? 
+
+## David K.
+Web apps and visualization
+
+Henry B. - What about sampling periods? - This will be addressed in the Y3 report and tools. Henry produces maps every year. 28 years in total. Not many changes are statistically significant changes. Call things a "tendancy" rather than a "trend". Becomes even more complicated when comparing across programs. Where to cutoff p-values?
+ 
+FMK - What about uncertainty? Not just p-values, but the actual values and how they vary. Could add a range variable.
+
+Henry - Most important gaps are within 500m of shoreline. Originally designed to stay away from shore. However, this zone is very important, where most of the action is. A lot of trends and pollution is a big issue in this "halo" around the islands.
+
+SERC is going to try to address in helo zone this year. Going to use a flowthrough system, not individual samples. Make a map using a sonde. Good for outlining hotspots. Alex - how well with this new data merge with the old data (ind. samples). There are issues betweel grab samples and sonde, but can be used for hotspot analysis and other ways when comparing sonde data.
+
+Chris K - Need to calibrate sensors w/lab data. This does improve data spatial ranges. Temporal density is important. 
+
+Henry - Need more high frequency data. Quarterly is not good enough. Many things are missed. Tides, sunlight effects, etc. Also need current information on moored sensors.
+
+
+
+
+
+
+
+
+
 
 
 
