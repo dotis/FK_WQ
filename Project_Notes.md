@@ -166,6 +166,42 @@ FY4 proposal is likely to be funded.
 4. Meetings with DEAR to streamline and hopefully improve usefulness of WIN.
 
 
+## Meeting with data providers 5/19/23
+19 people on the call: DEP, AOML, FWC, DERM, Broward County, FKNMS, Miami-Dade County, Bisc. Bay Aquatic Preserve
+
+Luke - project background
+
+## Alex F.
+Data comparability, standardization, How were datasets compared? Why did we choose these 7 programs? Similar methods, common analytes. How do add programs? Data needs to be comparable (methods/analytes). NELAC certs are stingent, so that adds a layer of comparability. 
+
+Data aggregation - very important. Gaps between collection and upload to WIN. Y1-Y2: obtained data by hand via email. What are the challenges on the part of porviders? How else/better could we do this? Y3 - started to pull from WIN.
+
+Omar A. - FIU got a grant to do this same thing (recent). Two contacts: ??? DEP funded grant. Bisc. Bay Water Improvement Grant (data aggregation and portal) Where? All of South FLorida? BB only? How much overlap is there? Why is DEP funding parallel efforts? Are FIU efforts reef-focused?
+
+SERC data is in our dataset, but not all params are NELAC certified. What can be compared? Omar A. - Can we just add a field/flag for NELAC cert.? Let user decide. WIN won't take certain params (PAR). Only params with SOPs. Work has to be done in-situ. Need more details on WIN requirements. Alternative methods can be cleared by the state. 
+
+"Alternative Methods Approval". Must go through DEAR and domonstrate w/diff methods and identical samples. Intensive process.
+
+Example: Acid vs. ice preservation.
+
+From Frank M-K: Wondering about a few linkages: 
+1. How is the other DEP water quality program (Fourqurean's) handling these interoperability questions; 
+2. How is this effort linked to the regional water quality effort in SEFCRI: https://coastalscience.noaa.gov/news/noaa-scientists-help-florida-dep-design-coral-reef-water-quality-monitoring-program/; 
+3. How does this fit into this DEP effort: https://floridadep.gov/dear/water-quality-standards/content/numeric-nutrient-criteria-development
+4. Is the database now online?
+
+From Kristi K. (FDEP):
+The FIU project that was mentioned earlier is funded through the Biscayne Bay Water Quality Improvement Grant is focused on Biscayne Bay. It is a project that brings datasets into a single unified platform with the goal of developing predictive models and visualization applications for the various datasets from MDC, DEP, SFWMD, NOAA, FIU, and UM, etc. to make faster, more informed management decisions. The project was fully executed this past November so the project is in it's infancy.
+
+Alex F. - Does anyone go back and update WIN? Are there changes to past data on the part of providers. Yes, some data is flagged as anomalous and is changed (Juliet)
+
+Lindsey V.: Have you contacted WIN coordinator (Justin Nelson) He has helped with past large-scale revisions.
+
+## Omar R. (AOML)
+
+
+
+
 
 
 
