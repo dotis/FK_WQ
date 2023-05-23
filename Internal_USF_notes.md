@@ -1,0 +1,4 @@
+## Possible text for database solution description:
+
+I’m not sure I want to get into this part below.
+If funding allows, a high-end database with increased functionality could be developed, such as an InfluxDB instance used as part of the mbon-dashboard-server stack(?). Can we explain the mbon-dashboard-stack here? With this more advanced architecture, the implementation will be able to retain some functionality indefinitely and will be able to scale up to enterprise level if future funding allows. Additionally, automated messages could be utilized to provide reminders for data providers, and open reporting on dataset status will further encourage transparency. The open source Grafana user interface may be used as the frontend interface in this high-end option as part of the mbon-dashboard-server stack. An data dashboard was developed for the Flower Garden Banks National Marine Sanctuary using Grafana (http://fgbnms-dashboard.marine.usf.edu:3000).
