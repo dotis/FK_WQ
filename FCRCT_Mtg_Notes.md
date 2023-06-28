@@ -33,4 +33,4 @@ Non-voting members
    8. Kristina Kellogg - USGS
    9. Gina Ralph - USACE
 
-11. Ava Velez - USACE (Jax)
+8. Ava Velez - USACE (Jax)
