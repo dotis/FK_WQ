@@ -34,4 +34,8 @@ Notes:
    9. Gina Ralph - USACE
 
 ### Other presentations
-Ava Velez - USACE (Jax)
+1. Eva Velez - USACE (Jax)
+ - Overview of Corps projects in FL (Everglades, Lake O., changes in flow, etc.)
+
+2. Water quality matrix and unified database
+
