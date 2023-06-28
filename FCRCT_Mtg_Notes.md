@@ -21,13 +21,13 @@ Notes:
    6. Joanna Walczak - FDEP
    7. Dana Wusinich-Mendez NOAA Coral Program
 9.  Non-voting members
-  1. Shelly Krueger - Monroe County
-  2. Cassandra Armstrong - SFWMD coastal ecosystems
-  3. Angela Delaney - Broward County
-  4. Katelyn Armstrong - Palm Beach County (has a set of buoys)
-  5. Laura Eldridge - Miami Dade County (also has buoys)
-  6. Ian Enochs - NOAA AOML
-  7. Elizabeth Kelly - Martin County
-  8. Kristina Kellogg - USGS
-  9. Gina Ralph - USACE
-11. Ava Velez - USACE (Jax)
+   1. Shelly Krueger - Monroe County
+   2. Cassandra Armstrong - SFWMD coastal ecosystems
+   3. Angela Delaney - Broward County
+   4. Katelyn Armstrong - Palm Beach County (has a set of buoys)
+   5. Laura Eldridge - Miami Dade County (also has buoys)
+   6. Ian Enochs - NOAA AOML
+   7. Elizabeth Kelly - Martin County
+   8. Kristina Kellogg - USGS
+   9. Gina Ralph - USACE
+10. Ava Velez - USACE (Jax)
