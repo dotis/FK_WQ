@@ -37,5 +37,32 @@ Notes:
 1. Eva Velez - USACE (Jax)
  - Overview of Corps projects in FL (Everglades, Lake O., changes in flow, etc.)
 
-2. Water quality matrix and unified database
+2. Water quality matrix and unified database (Joanna)
+ - Updated matrix in Excel format
+ - "The Big Seven" - will add programs
+ - This project is focused on nutrients (less so on temp. and sal.)
+ - 20-30 programs w/temp and sal which could be included, would be a heavy lift
+ - "Water Quality Data Team" is what they call our FDEP/AOML/USF project
+ - Will post to team website (Add link HERE)
+ - McEachron 2022 ("Big 7") item on March meeting summary
+
+### Discussion of draft plan from March meeting
+ - Lots of challenges in developing a monitoring plan
+ - Look at other programs
+ - Look beyond standard WQ metrics
+ - Do we know what "good" levels of WQ are? (No - I. Enochs)
+ - What management levers are available? What can we do if we do see changes?
+ - How fast can we get data? What are the time frames?
+ - Are there commercial solutions (satellites/sondes) to help solve this?
+ - Adaptive/iterative approach?
+ - Let's focus on our primary tasks and not widen the net too much (Joanna)
+ - How do we define Everglades Restoration?
+ - Restore flows (how will this affect FL Bay?)
+ - How can we assess where the water is going?
+ - What is the ROI (all reefs? Patch reefs?)
+ - With large inflows into FL Bay, what/where are the impacts?
+
+### Next meeting on September 7th, 2023 - could be in-person
+
+
 
