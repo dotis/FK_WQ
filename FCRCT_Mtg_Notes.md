@@ -12,6 +12,7 @@ Notes:
 5. Eric Stabenau - Federal (NPS?)
 6. How is monitoring working? Is it effective? Are there gaps?
 7. Adam Gelber - USDOI
+
 Many members giving updates (voting members)
    1. Sarah Fangman - FKNMS
    2. Wade Lehmann - EPA (REMAP - WQ monitoring effort starting up in the fall)
@@ -20,6 +21,7 @@ Many members giving updates (voting members)
    5. CJ Sweetman - FWC Fisheries Management - Two members appointed to team by the governor (one is Tom Frazer)
    6. Joanna Walczak - FDEP
    7. Dana Wusinich-Mendez NOAA Coral Program
+
 Non-voting members
    1. Shelly Krueger - Monroe County
    2. Cassandra Armstrong - SFWMD coastal ecosystems
