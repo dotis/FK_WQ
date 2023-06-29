@@ -2,6 +2,8 @@
 
 ### Programs and IDs (are these consistent in the merged and overall .csv files?)
 These do not all match the names in the matrix(?)
+
+Programs are not consistent for each parameter
  - AOML
  - DERM
  - BROWARD
@@ -13,15 +15,15 @@ These do not all match the names in the matrix(?)
  - BBWW
 
 ### Parameters w/slopes (9)
- - Total P
- - Total N
- - Total Kjeldahl N
- - Chlor_a
- - NH4
- - NOX
- - PO4
- - Silica
- - Turbidity
+ - Total P (BBAP, BC, DEP ECA, DERM, MB, SERC)
+ - Total N (BC, DEP ECA,DERM, MB, SERC) 
+ - Total Kjeldahl N (BBAP, BROWARD, DEP, DERM, FIU, Miami Beach, Miami Beach Outfalls)
+ - Chlor_a (AOML, BBAP, BC, DEP ECA, DERM, SERC)
+ - NH4 (AOML, BBAP, BC, DEP ECA, DERM, MB, SERC)
+ - NOX (AOML, BBAP, BC, DEP ECA, DERM, MB, SERC)
+ - PO4 (AOML, BC, DEP ECA, DERM, SERC)
+ - Silicate (AOML, DEP ECA, SERC)
+ - Turbidity (BC, BROWARD, DEP, DEP ECA, DERM, FIU, Miami Beach, Miami Beach Outfalls, Miami Beach Re-Sample, SERC)
 
 
 There are some differences between porgrams for the different parameters, so it is best to use the individual merged .csv files for each param.
