@@ -1,26 +1,27 @@
 ## Notes on Y3 Merged FKWQ Dataset
 
 ### Programs and IDs (are these consistent in the merged and overall .csv files?)
-AOML
-DERM
-BROWARD
-DEP
-FIU (SERC)
-21FLWQA (?)
-BBAP
-Miami Beach
-BBWW
+These do not all match the names in the matrix(?)
+ - AOML
+ - DERM
+ - BROWARD
+ - DEP
+ - FIU (SERC)
+ - 21FLWQA (?)
+ - BBAP
+ - Miami Beach
+ - BBWW
 
 ### Parameters w/slopes (9)
-Total P
-Total N
-Total Kjeldahl N
-Chlor_a
-NH4
-NOX
-PO4
-Silica
-Turbidity
+ - Total P
+ - Total N
+ - Total Kjeldahl N
+ - Chlor_a
+ - NH4
+ - NOX
+ - PO4
+ - Silica
+ - Turbidity
 
 
 There are some differences between porgrams for the different parameters, so it is best to use the individual merged .csv files for each param.
