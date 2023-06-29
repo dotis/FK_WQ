@@ -1,5 +1,19 @@
 ## Notes on Y3 Merged FKWQ Dataset
 
+### Programs and IDs
+AOML
+DERM
+BROWARD
+DEP
+FIU (SERC)
+21FLWQA (?)
+BBAP
+Miami Beach
+BBWW
+
+There are some differences between porgrams for the different parameters, so it is best to use the individual merged .csv files for each param.
+
+
 1. Many SERC slopes are duplicated in 'Chla Slopes.csv' file.
 2. There are two entries in the location file (rows 64 and 66) for "Key West NW Channel"; one is called "KW Northwest Channel"; lat/lon are identical
 4. There are two entries in the location file (rows 125 and 126) for "Seven Mile Bridge" with identical names and nearly identical lat/lon
