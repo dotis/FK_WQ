@@ -230,6 +230,13 @@ Henry - Need more high frequency data. Quarterly is not good enough. Many things
 
 
 
+### Team meeting on 1/17/2024
+Remote sensing to fill gaps - prepare a couple of slides for FCRCT mtg. on 3/19
+ - How can we fill gaps (1km vs. 30m data)? - examples?
+ - Show tool or examples of tool for 3/19
+ - Need to meet w/WIN folks (Luke will arrange)
+ - Need to get extension for deliverable? - Dave will find out
+ - Next mtg. - week before GOMCON
 
 
 
