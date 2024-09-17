@@ -59,5 +59,6 @@ The parameters and station numbers show consistent differences.
 5. BBAP 5026: CHLA, COND, DO%, SAL, TDS, TURB, pH, TEMP, SECCHI, NO3+NO2, TP, TOC, TSS, TP, NH4, CHLA, TKN
 6. DEP ECA 5033: NO3+NO2, NH4, OPO4, Si, NO3, TKN, TP, TSS, TURB, CHLA, TOC
 7. BBWW 5077: COND, SECCHI, CHLA, DO%, DO, SAL, COND, TDS, TURB, pH, TEMP
+8. BBWW 4057: Si, NO2, NO3, NH4, PO4, CHLA, Phaeophytin
   
 
