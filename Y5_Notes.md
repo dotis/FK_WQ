@@ -43,4 +43,12 @@ USGS Gauging stations to use: (these all appear on the USACE LOSOM status page -
 7. Levee 8 (265501080364900); east side of Lake O. - listed as S-271 on USACE map
 8. St. Lucie Canal at SR80 (02276998); East of Lake O. - use for St. Lucie Rv flow, also contains WQ obs.
 
+Task 5 Plan (12/4/24):
+1. Setup dashboard?, Or just display gauge data using ML code, Quarto?
+2. Assess baseline flow and WQ using gauge data
+3. Baseline WQ using FCRUWQD, sat. data,
+4. Need map w/river gauge locations (geomap?)
+5. 
+
+
 
