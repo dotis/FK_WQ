@@ -36,8 +36,7 @@ Deliverables:
 USGS Gauging stations to use: (many of these appear on the USACE LOSOM status page - https://w3.saj.usace.army.mil/h2o/reports/StatusDaily.htm)
 Stations are now entered in [/Box/ACTIVE_PROJ/FKWQ/SouthFL_USGS_ACE_SiteList.xlsx](https://github.com/dotis/FK_WQ/blob/main/SouthFL_USGS_ACE_SiteList.csv)
 
-
-Task 5 Plan (12/4/24):
+#### Task 5 Plan (12/4/24):
 1. Display gauge data using Quarto/Shiny? Also add tabs for WQ
 2. Assess baseline flow and WQ using gauge data
 3. Baseline WQ using FCRUWQD, sat. data,
@@ -47,6 +46,15 @@ Task 5 Plan (12/4/24):
 7. Way to get a gridded (may be crude) precip dataset (Or, KW and MIA airports?) - How to parse? Rains in one area, flows to another
 8. Add sat. extraction site nr. Caloosahatchee River outfall to estimate WQ effects from water releases
 9. 
+
+
+#### The USGS NWIS API requires a call like this:
+https://waterdata.usgs.gov/nwis/dv?cb_{param_code}=on&format=rdb&site_no={sta_ID}&referred_module=sw&period=&begin_date=01-01-1950&end_date=12-31-2024 ,''ContentType'',''raw''
+ 
+Examples from the first row of the csv file:
+param_code =  00060 (this is for discharge; each parameter has a different code)
+sta_ID = 02292900 (must have the 0 in front)
+
 
 
 
