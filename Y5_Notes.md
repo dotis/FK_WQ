@@ -33,21 +33,9 @@ Deliverables:
 1. Report in Word format
 2. Figures (maps, sat. images, time series)
 
-USGS Gauging stations to use: (these all appear on the USACE LOSOM status page - https://w3.saj.usace.army.mil/h2o/reports/StatusDaily.htm)
-These will now be entered in /Box/ACTIVE_PROJ/FKWQ/SouthFL_USGS_ACE_SiteList.xlsx
-1. CALOOSAHATCHEE RIVER AT S-79, NR.OLGA, FLA (02292900); also contains WQ obs.
-2. Miami Canal at SR354 (02286400); south side of Lake O.
-3. Hillsboro Canal at SR351 (02280500); south side of Lake O.
-4. Tamiami Canal at S-12 (254543080405401); south of Lake O.
-5. Shark Rv Slough (254130080380500); south of Lake O. (not on USACE map)
-6. St. Lucie Canal at SR308 02276877; east side of Lake O.
-7. Levee 8 (265501080364900); east side of Lake O. - listed as S-271 on USACE map
-8. St. Lucie Canal at SR80 (02276998); East of Lake O. - use for St. Lucie Rv flow, also contains WQ obs.
-9. Tamiami Canal (02288900) at 40-mile bend
-10. NE Shark River Slough (253828080391100); NE of Shark Rv outlet
-11. TAYLOR SLOUGH WETLAND AT E146 (251457080395800); N of FL Bay
-12. NORTH RIVER UPSTREAM OF CUTOFF NEAR FLAMINGO, FL (022908205); NE of Cape Sable
-13. BOTTLE CREEK AT ROOKERY BRANCH NEAR HOMESTEAD, FL (022908295); NE of Cape Sable
+USGS Gauging stations to use: (many of these appear on the USACE LOSOM status page - https://w3.saj.usace.army.mil/h2o/reports/StatusDaily.htm)
+Stations are now entered in [/Box/ACTIVE_PROJ/FKWQ/SouthFL_USGS_ACE_SiteList.xlsx](https://github.com/dotis/FK_WQ/blob/main/SouthFL_USGS_ACE_SiteList.csv)
+
 
 Task 5 Plan (12/4/24):
 1. Display gauge data using Quarto/Shiny? Also add tabs for WQ
