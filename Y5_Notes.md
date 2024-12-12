@@ -45,7 +45,10 @@ Stations are now entered in [/Box/ACTIVE_PROJ/FKWQ/SouthFL_USGS_ACE_SiteList.xls
 6. Can add in situ data from FCRUWQD (individual stations) over USGS time series (Disch., fDOM, fChl, etc.)
 7. Way to get a gridded (may be crude) precip dataset (Or, KW and MIA airports?) - How to parse? Rains in one area, flows to another
 8. Add sat. extraction site nr. Caloosahatchee River outfall to estimate WQ effects from water releases
-9. 
+9. Look more closely at the LOSOM plan. South of Lake O., how does water get out of the canals and into the Everglades? - L2 canal?
+10. Group of S-12 gauges represents southward flow toward FL Bay. These gauges can be summed.
+11. Gauges do not quite match USACE stations where flow is controlled. Use gauges as close to the controls as possible to assess flow.
+12. Use USACE map and LOSOM document.
 
 
 #### The USGS NWIS API requires a call like this:
