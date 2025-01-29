@@ -58,6 +58,14 @@ Examples from the first row of the csv file:
 param_code =  00060 (this is for discharge; each parameter has a different code)
 sta_ID = 02292900 (must have the 0 in front)
 
+### Notes for January 29th meeting (next Mtg. 2/19)
+1. Pre-proposal for Y6 due to DEP at the end of February
+    - WQ sat. observatory using Sentinel-2 data
+    - Data mobilization workshop(s) for biological data (corals, fish, etc.)
+2. Next FCRCT Mtg. 4/11
+3. Start over w/WQ database (use WIN where possible, may need STORET or to reach out to individual programs)
+4. 
+
 
 
 
