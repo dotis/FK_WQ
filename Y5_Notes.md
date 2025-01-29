@@ -62,10 +62,10 @@ sta_ID = 02292900 (must have the 0 in front)
 1. Pre-proposal for Y6 due to DEP at the end of February
     - WQ sat. observatory using Sentinel-2 data
     - Data mobilization workshop(s) for biological data (corals, fish, etc.)
-2. Next FCRCT Mtg. 4/11
+2. Report due Mtg. 4/11
 3. Start over w/WQ database (use WIN where possible, may need STORET or to reach out to individual programs)
-4. 
-
+4. Draft report due three weeks before June 13.
+5. All deliverables due 6/13.
 
 
 
