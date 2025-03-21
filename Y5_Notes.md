@@ -33,6 +33,15 @@ Deliverables:
 1. Report in Word format
 2. Figures (maps, sat. images, time series)
 
+River gauges to show/plot
+South into FL Bay:
+TRTCr
+TAYRv
+MUDCr
+MCCr
+
+
+
 USGS Gauging stations to use: (many of these appear on the USACE LOSOM status page - https://w3.saj.usace.army.mil/h2o/reports/StatusDaily.htm)
 Stations are now entered in [/Box/ACTIVE_PROJ/FKWQ/SouthFL_USGS_ACE_SiteList.xlsx](https://github.com/dotis/FK_WQ/blob/main/SouthFL_USGS_ACE_SiteList.csv)
 
