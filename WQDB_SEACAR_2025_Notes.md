@@ -7,7 +7,7 @@ Using .csv file "allDataSEACAR.csv" (515,997 rows)
 Alternative file: "allData.csv" (1,422,618 rows)
 
 #### Issues:
- - Only 6 unique programs
+ - Only 6 unique programs:    
 'AOML_FBBB'  
 'BBWW'  
 'FIU_Estuaries'  
@@ -23,5 +23,7 @@ Missing programs:
 5. BROWARD
 6. PALMBEACH
 
- - Issue w/units ("ppm" for salinity)
- - Issue w/lat and lon - degrees only for some stations 
+ - Issue w/units ("NA" for SFER, all "ppm" for FIU_Estuaries, missing/NA for AOML_FBBB, )
+ - SFER only - Issue w/lat and lon - degrees only for some stations (getting the wrong column from recent SFER .csv file on GH)
+ - Some extra parameters (Specific_Conductivity for MiamiBeach)
+ - 
