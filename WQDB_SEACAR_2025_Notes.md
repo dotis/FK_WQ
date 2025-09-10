@@ -12,7 +12,7 @@ Alternative file (compact format): "allData.csv" (1,422,618 rows)
 'BBWW'  (OK)  
 'FIU_Estuaries'  (units all "ppm", out of range values)    
 'MiamiBeach'  (no lat/lon for some locations)  
-'SFER'  ("NA" for units, degrees only for lat/lon - need other column)
+'SFER'  ("NA" for units, degrees only for lat/lon - need other column)  
 'undefined'  
 
 Missing programs:
