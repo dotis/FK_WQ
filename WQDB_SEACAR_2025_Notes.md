@@ -8,11 +8,11 @@ Alternative file (compact format): "allData.csv" (1,422,618 rows)
 
 #### Issues:
  - Only 6 unique programs:    
-'AOML_FBBB'  
-'BBWW'  
-'FIU_Estuaries'  
-'MiamiBeach'  
-'SFER'  
+'AOML_FBBB'  (Missing units, no dates)    
+'BBWW'  (OK)  
+'FIU_Estuaries'  (units all "ppm", out of range values)    
+'MiamiBeach'  (no lat/lon)  
+'SFER'  ("NA" for units, degrees only for lat/lon - need other column)
 'undefined'  
 
 Missing programs:
