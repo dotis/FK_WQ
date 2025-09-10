@@ -4,7 +4,7 @@ Cross-walk document due to SEACAR (USF) by 9/30/25
 
 Using .csv file "allDataSEACAR.csv" (515,997 rows)
 
-Alternative file: "allData.csv" (1,422,618 rows)
+Alternative file (compact format): "allData.csv" (1,422,618 rows)
 
 #### Issues:
  - Only 6 unique programs:    
