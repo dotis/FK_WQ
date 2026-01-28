@@ -17,5 +17,5 @@ BROWARD_STORET (BROWARD is ok)
 BBWQ_STORET (BBWQ is ok)  
 
 Original raw files do not contain lat/lon  
-Look in WIN/STORET and try to retrieve new files with lat/lon
+Look in WIN/STORET and try to retrieve new files with lat/lon  
 Check FIU_WQMP_RECENT original file (Excel) is missing lat/lon and units
